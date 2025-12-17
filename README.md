@@ -40,4 +40,4 @@
 ---
 
 ### 🏆 sertifikat
--https://www.dicoding.com/certificates/NVP7J5D4VXR0
+- sertifikat dicoding : https://www.dicoding.com/certificates/NVP7J5D4VXR0
